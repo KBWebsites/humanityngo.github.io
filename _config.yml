@@ -1,0 +1,5 @@
+domain: banshidhartrust.com
+defaults:
+  -
+    values:
+      layout: default
